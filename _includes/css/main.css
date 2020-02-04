@@ -82,6 +82,18 @@ hr {
     margin-top: 40px;
 }
 
+.supertitle {
+	margin: auto;
+	width: 720px;
+	font-family: 'Muli', sans-serif;
+	font-weight: 900;
+}
+
+.callout {
+	font-family: 'Muli', sans-serif;
+	font-weight: 400;
+}
+
 /* keep embedded videos fluid! */
 .icontain {
   position: relative;
