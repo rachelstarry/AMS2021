@@ -79,6 +79,9 @@
 	em { font-style: italic; }
 	strong { font-weight: bold; }
 	small { font-size: 80%; }
+	
+	supertitle { font-family: Muli;}
+	callout { font-family: Muli; }
 
 /*	Blockquotes  */
 	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
