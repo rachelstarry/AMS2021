@@ -50,7 +50,7 @@ fa-icon: folder
 <br/>
 
 "Trapezites: An Ancient Currency Conversion Website" (Giuseppe Carlo Castellano, University of Texas at Austin)
-- [Trapezites](https://www.trapezites.com) is a standard online currency conversion website designed to convert from one ancient currency to another, accompanied by information about purchasing power in antiquity. Determining historical exchange rates and purchasing power is a notorious problem and requires the careful study of many different types of evidence. Users will be able to rapidly access results that would otherwise require a long slog through the literature. The nature of the evidence – literary, epigraphic, numismatic – will be specified.
+- [Trapezites](https://trapezites.com/) is a standard online currency conversion website designed to convert from one ancient currency to another, accompanied by information about purchasing power in antiquity. Determining historical exchange rates and purchasing power is a notorious problem and requires the careful study of many different types of evidence. Users will be able to rapidly access results that would otherwise require a long slog through the literature. The nature of the evidence – literary, epigraphic, numismatic – will be specified.
 <br/>
 
 "ToposText: Assembling a Public Digital Toolkit for Greco-Roman Antiquity" (Brady Kiesling, ToposText)
